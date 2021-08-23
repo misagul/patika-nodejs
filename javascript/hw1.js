@@ -7,4 +7,4 @@ let h = today.getHours();
 let m = today.getMinutes();
 let s = today.getSeconds();
 
-document.querySelector('#myClock').innerHTML = h+':'+m+':'+s
+document.querySelector('#myClock').innerHTML = h + ':' + m + ':' + s;
